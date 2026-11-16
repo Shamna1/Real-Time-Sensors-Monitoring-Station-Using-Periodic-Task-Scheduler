@@ -62,7 +62,7 @@ The Timer0 interrupt service routine updates the timing flag/counter, while sens
 
 **UART0** is used for serial communication between the LPC2129 microcontroller and the computer.
 
-The sensor readings are transmitted to a Linux terminal, allowing users to monitor the sensor status.
+The sensor readings are transmitted through UART0 and displayed in the terminal.
 
 **Baud Rate:** 9600 bps
 
