@@ -49,8 +49,8 @@ The periodic monitoring schedule is:
 | Temperature | Every 1 second |
 | LDR | Every 2 seconds |
 | Potentiometer | Every 3 seconds |
-| Flame Sensor | Every 4 seconds |
-| Vibration Sensor | Every 4 seconds |
+| Flame Sensor | Every 3 seconds |
+| Vibration Sensor | Every 3 seconds |
 
 Flame and vibration sensors are monitored together at the 4-second interval.
 
