@@ -106,7 +106,7 @@ FLAME: NO
 * Timer0 Interrupt
 * UART0 Serial Communication
 * Keil µVision IDE
-* Terminal
+* Flashmagic
 
 ---
 
